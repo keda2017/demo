@@ -1,0 +1,10 @@
+{
+    "name": "pioneer/demo_composer",
+    "authors": [
+        {
+            "name": "dage",
+            "email": "807181625@qq.com"
+        }
+    ],
+    "require": {}
+}
